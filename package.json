@@ -1,6 +1,12 @@
 {
   "name": "git-commands",
-  "displayName": "git-commands",
+  "author": "Rickard Jonsson",
+  "publisher": "rickaard",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rickaard/git-commands"
+  },
+  "displayName": "Git commands",
   "description": "Adds basic Git commands to the command palette",
   "version": "0.0.1",
   "engines": {
